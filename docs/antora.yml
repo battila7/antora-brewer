@@ -1,0 +1,5 @@
+name: brewer
+title: Brewer
+version: v1.0.0
+nav:
+- modules/ROOT/nav.adoc
